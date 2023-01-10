@@ -1,0 +1,4 @@
+dist
+*.d.ts
+*.min
+node_modules
